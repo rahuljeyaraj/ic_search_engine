@@ -4,7 +4,20 @@
     "category": "voltage_regulator",
     "input_voltage": "7-25V",
     "output_voltage": "5V",
-    "current": "1A",
-    "package": "TO-220"
+    "current": "1A"
+  },
+  {
+    "name": "AMS1117-3.3",
+    "category": "voltage_regulator",
+    "input_voltage": "4.5-15V",
+    "output_voltage": "3.3V",
+    "current": "1A"
+  },
+  {
+    "name": "LM317",
+    "category": "voltage_regulator",
+    "input_voltage": "3-40V",
+    "output_voltage": "adjustable",
+    "current": "1.5A"
   }
 ]
