@@ -1,0 +1,10 @@
+[
+  {
+    "name": "LM7805",
+    "category": "voltage_regulator",
+    "input_voltage": "7-25V",
+    "output_voltage": "5V",
+    "current": "1A",
+    "package": "TO-220"
+  }
+]
